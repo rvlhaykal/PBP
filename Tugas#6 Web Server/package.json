@@ -1,0 +1,11 @@
+{
+  "name": "webserver6",
+  "version": "1.0.0",
+  "description": "Tugas Web Server sesi 6",
+  "main": "web.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Syahrul Mubarok",
+  "license": "ISC"
+}
